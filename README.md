@@ -1,2 +1,3 @@
-# README.md
-Hi 👋 I am George Appiah 
+# Hi 👋 I am George Appiah 
+
+DevOps Engineer 2x AWS 
