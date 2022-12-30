@@ -1,3 +1,3 @@
 # Hi 👋 I am George Appiah 
 
-DevOps Engineer and 2x AWS
+DevOps Engineer and 2x AWS certified 
