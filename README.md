@@ -5,8 +5,7 @@ Hi 👋 I am George Appiah
 Before DevOps I was a product designer and webflow
 developer. I studied that to understand software 
 development process, ability to empathize, and  
-simplify complexity. Check out my portfolio I'm still receiving feedback 😅( https://the-george-kwabena.webflow.io/ )
-
+simplify complexity. 
 Before deciding to become a product designer, 
 I self-studied digital marketing. These skill 
 parallel nicely with being a product designer 
